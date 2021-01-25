@@ -1,6 +1,6 @@
 # FreeRTOS_arduinoSimulator
 
-Steps to use:
+##Steps to use:\
 	1.Install Arduino Simulator Software
 		https://xevro.be/products/arduino%2520simulator%25201.5.html
 		
